@@ -26,4 +26,4 @@ static void fibonacci(int n)
         counter++;
     }
 }
-
+}
